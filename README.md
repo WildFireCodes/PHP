@@ -39,5 +39,5 @@
 
 ## Statystyki: (osobno lub na stronie głównej w zależności od ilości wykresów)
 - szybkie podsumowanie raz jeszcze na górze strony, 
-- wykresy różne itd. (jakieś propozycje?) 
+- wykresy różne itd. 
 
